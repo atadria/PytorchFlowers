@@ -1,7 +1,7 @@
 # PytorchFlowers
 Image classifier to identify different species of flowers.
 
-To run on Google colab: 
+To run on Google Colab: 
 https://colab.research.google.com/
 Go to: File -> Open Notebook... -> GITHUB 
 and paste:
