@@ -16,3 +16,6 @@ Link to sample model:
 https://drive.google.com/open?id=1-4nIJkdWFWwI2FdcJ9OivQQqt3Qz75Pt
 
 Json file cat_to_name.json is used to map folders to names.
+
+Final project from PyTorch Scholarship Challenge from Facebook by Udacity.
+https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html
